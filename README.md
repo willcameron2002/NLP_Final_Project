@@ -22,4 +22,4 @@ To compare Twitter opinions to the actual performance of the team, the NBA’s d
 ## Results
 Once all the tweets had been classified for sentiment and subject, graphs could be created to gain a greater understanding of how NBA Twitter reacted to the trade. **Figure 1** shows the tweets separated by sentiment. Following the initial massive announcement tweets, the opinions begin flowing in. Considering the size of the points denotes the number of likes and retweets, the positive tweets had more interaction across the board than negative tweets, possibly showing more people agreeing with these tweets. The tweets were classified at roughly 60% neutral, 30% positive, and 10% negative.
 
-![](https://github.com/willcameron2002/NLP_Final_Project/tree/main/Figures/TweetSentiments.png?raw=true)
+<img src = "https://github.com/willcameron2002/NLP_Final_Project/tree/main/Figures/TweetSentiments.png?raw=true" />
